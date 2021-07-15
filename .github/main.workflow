@@ -10,6 +10,6 @@ action "Deploy to Azure" {
   env = {
     SERVICE_PRINCIPAL = "ServicePrincipalName",
     TENANT_ID="e7a7f48b-4187-49ce-b6fc-14f712cf7ef0",
-    APPID="myWebappTest"
+    APPID="myWebappTest1"
   }
 }
